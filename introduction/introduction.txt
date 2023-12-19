@@ -1,0 +1,9 @@
+STL
+-> Library of container classes, algorithums and iterrators
+-> Divided into two parts
+1) container: simple or sequance=> vectors, pairs, forward_list, list
+              container adaptors=> Stack(LIFO), Queue(FIFO), Priority_queue
+                                   (fixed Priority)
+               Associative(sorted data, O(log n))=> set, map, unordered set 
+                                unordered map 
+2)Algorithums

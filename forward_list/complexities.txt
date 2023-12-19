@@ -1,0 +1,23 @@
+insert_after(): To insert one element it takes O(1) time and to insert m elements, it will take O(m) time.
+
+
+erase_after(): To erase one element it takes O(1) time and to erase m elements, it will take O(m) time.
+
+
+push_front(): This takes O(1) time.
+
+
+pop_front(): This takes O(1) time.
+
+
+reverse(): This takes O(n) time.
+
+
+sort(): This takes O(nlogn) time.
+
+
+remove(): This takes O(n) time.
+
+
+assign(): To assign one element it takes O(1) time and to assign m elements, it will take O(m) time.
+
